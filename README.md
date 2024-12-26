@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Shahd!
 
-<!--
-**shahdahmmed/shahdahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=shahdahmmed.shahdahmmed)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 I'm a senior-year **Computer Science** student.
+- 🌱 Currently learning **Machine learning, Cloud Computing, Data Analytics and Compilers**.
+- 🛠️ Working on **Logestic regression machine model**.
+- 💬 Ask me about **coding, algorithms, or career advice**.
+- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdahmmed&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahdahmmed&theme=radical)
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdahmmed&layout=compact&theme=radical)
